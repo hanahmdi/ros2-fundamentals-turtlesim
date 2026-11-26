@@ -57,9 +57,6 @@ The full report explains these commands alongside services, parameters, actions,
 
 This project documents hands-on exploration of ROS 2 fundamentals through Turtlesim simulation, command-line tools, and practical exercises in node communication, topics, services, actions, parameters, launch configurations, and workspace management. It demonstrates foundational skills in robotics middleware and ROS 2 development workflows.
 
-## Author
-
-**Hannaneh Sadat Ahmadi**
 
 ## Resources
 
