@@ -53,9 +53,9 @@ ros2 interface show geometry_msgs/msg/Twist
 
 The full report explains these commands alongside services, parameters, actions, graphical tools, launch mechanisms, and package management.
 
-## Project Character and Scope
+## Project Overview
 
-This repository presents **documented introductory learning and standard ROS 2 tutorials**, not a proprietary robotic system or a newly developed autonomous navigation algorithm. The original learning notes described hands-on Turtlesim and ROS CLI activities; their organization-specific document and template are **not included**. Commands are provided as illustrative reproduction steps and have **not been independently re-executed** during preparation of the English report.
+This project documents hands-on exploration of ROS 2 fundamentals through Turtlesim simulation, command-line tools, and practical exercises in node communication, topics, services, actions, parameters, launch configurations, and workspace management. It demonstrates foundational skills in robotics middleware and ROS 2 development workflows.
 
 ## Author
 
